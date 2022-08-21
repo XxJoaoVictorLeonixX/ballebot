@@ -1,5 +1,16 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Sarala:wght@400;700&display=swap');
 :root{
-    --fonte
+    --fonte:'Sarala', sans-serif;
+    --fontepadrao: arial, verdana, helvetica;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    background-image: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
+    font-size: 100%;
 }
