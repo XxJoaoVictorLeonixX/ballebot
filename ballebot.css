@@ -38,7 +38,7 @@ nav > a{
 }
 nav > a:hover{
     color: black;
-    transition-duration: 0.3s;
+    transition-duration: 0.2s;
     background-image: linear-gradient(to right, rgb(114, 85, 85), rgb(199, 156, 156) );
     border-radius: 20px;
     height: 45px; 
